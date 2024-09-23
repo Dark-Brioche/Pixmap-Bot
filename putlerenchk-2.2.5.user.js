@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         putlerenchk
 // @version      2.2.5
-// @author       Smorodina x Darkness
+// @author       Smorodina x Darkness x Brioche
 // @grant 		 GM_xmlhttpRequest
 // @grant 		 unsafeWindow
 // @require		 https://raw.githubusercontent.com/mitchellmebane/GM_fetch/master/GM_fetch.min.js
